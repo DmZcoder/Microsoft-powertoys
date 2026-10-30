@@ -1,9 +1,10 @@
 <p align="center">
-    <picture>
-      <source media="(prefers-color-scheme: light)" srcset="./doc/images/readme/pt-hero.light.png" />
-      <img src="./doc/images/readme/pt-hero.dark.png" />
-  </picture>
+  <img src="assets/microsoft-powertoys.png" alt="Microsoft PowerToys Archive by DmZcoder" width="640">
 </p>
+
+> **Personal Archive:** Maintained by **DmZcoder**.
+> Original software developed by Microsoft Corporation and contributors.
+> This is an independent archive, not the official Microsoft repository.
 <h1 align="center">
   <span>Microsoft PowerToys</span>
 </h1>
